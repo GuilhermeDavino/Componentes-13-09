@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+var oi = 'n'
+
 export default function Operacoes() {
     const [value, setValue] = useState();
 
